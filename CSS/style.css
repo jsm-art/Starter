@@ -1,0 +1,33 @@
+body{
+    display: block;
+    background-color: black;
+    }
+    H1{
+        color: antiquewhite;
+    }
+    img{
+        border: 3px solid cornflowerblue; 
+    }
+    button{
+        background-color: cornflowerblue;
+        color: antiquewhite;
+        padding: 20px 30px 20px 30px;
+        border: none;
+    }
+    h2{
+        text-align: center;
+    }
+    h3{
+        text-align: center;
+    }
+    p{
+        text-align: center;
+    }
+    ul{
+        font-size: medium;
+        color: cornflowerblue;
+    }
+    ol{
+        font-size: medium;
+        color: cornflowerblue;
+    }
